@@ -56,7 +56,8 @@ To run this project locally, you'll need the following software installed:
     streamlit run dashboard.py
     ```
 
-The dashboard will be accessible at `http://localhost:8501` in your web browser.
+The dashboard will be accessible locally at `http://localhost:8501` in your web browser.
+You can access it online : https://healthcare-access.streamlit.app/
 
 ## Data
 
